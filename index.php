@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>HELLO GOZ !!</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus molestias sunt nisi, sequi eius eaque quidem velit quasi alias nam consequatur culpa eos tempore rem unde qui a architecto. Nostrum.</p>
 </body>
 </html>
